@@ -1,7 +1,6 @@
 X Clientのサンプルコード置き場
 # Build
 ```
-$ cd examples
 $ make
 ```
 
